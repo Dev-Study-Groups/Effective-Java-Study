@@ -2,7 +2,7 @@
 🎈이펙티브 자바 Effective Java 3/E 스터디 Repositories
 <div align="center">
   <a href="https://product.kyobobook.co.kr/detail/S000001033066">
-      <img src="./img/EFFECTIVE JAVA 3 E.png" alt="Logo" width="200">
+      <img src="./img/EJ3E.jpg" alt="Logo" width="200">
   </a>
   <h1>이펙티브 자바 Effective Java 3/E 스터디</h1>
   <div>
